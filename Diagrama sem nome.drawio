@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T21:08:38.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="vK9INh8878ua6ZlNMos7" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T21:09:21.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fvE-bRkNdwOUMcTo-tru" version="24.3.1" type="github">
   <diagram name="Página-1" id="cqZcuJoVivcCUEAk2p_z">
-    <mxGraphModel dx="2901" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3267" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,8 +148,8 @@
         <mxCell id="bMiDlox5q61iTtw8jfHs-55" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png" vertex="1" parent="1">
           <mxGeometry x="144" y="920" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bMiDlox5q61iTtw8jfHs-56" value="REDE LOCAL" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="144" y="990" width="60" height="30" as="geometry" />
+        <mxCell id="bMiDlox5q61iTtw8jfHs-56" value="REDE LOCAL COM DMZ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="144" y="990" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMiDlox5q61iTtw8jfHs-57" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/security.svg;" vertex="1" parent="1">
           <mxGeometry x="154.25" y="1080" width="31.5" height="50" as="geometry" />
